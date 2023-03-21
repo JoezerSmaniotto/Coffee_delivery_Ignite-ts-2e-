@@ -12,6 +12,9 @@ export const LayoutContainer = styled.div`
   padding-right: 10rem;
   margin: 0 auto;
 
+  position: relative;
+  padding-bottom: 100px; /* altura do footer */
+
   background: ${(props) => props.theme.background};
   border-radius: 8px;
 
