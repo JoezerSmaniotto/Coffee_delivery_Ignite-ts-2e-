@@ -34,6 +34,9 @@ apos siga os execute os dois comandos abaixo
     <li>react-toastify</li>
 </ol>
 
+## Link par ao projeto
+<a href="https://coffee_delivery_ignite-ts-2e--joezersmaniotto.bohr.io/" target="_blank">Coffee Delivery<a>
+
 ## Conheça o projeto
 
 ### Página Home
