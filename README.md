@@ -2,7 +2,7 @@
 
 # Coffee Delivery
 
-Este neste projeto foi desenvolvido um Ecommerce de venda de cafés.
+Neste projeto foi desenvolvido um Ecommerce de venda de cafés.
 
 ## Instalação
 
